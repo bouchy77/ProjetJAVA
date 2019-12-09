@@ -6,5 +6,6 @@ public static void main(String[] args){
 	System.out.println("Dev de Bruno, fonction test1");
 	System.out.println("Dev de Bruno, fonction test2");
 	System.out.println("Dev de Bouchra, fonction test3");
+	System.out.println("Je test le conflit");
 }
 }
