@@ -5,6 +5,7 @@ public static void main(String[] args){
 	System.out.println("Dev de Bouchra, fonction sommer");
 	System.out.printeln("Dev de Bruno, fonction test1");
 	System.out.printeln("Dev de Bruno, fonction test2")
+	System.out.println("Dev de Bouchra, fonction test3");
 
 }
 }
